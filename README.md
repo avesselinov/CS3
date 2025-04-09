@@ -9,7 +9,7 @@ We used Python to run the majority of our code in Jupyter Notebooks in either Go
 
 ## How to Reproduce our Results:
 * **Step 1: Data Collection** <br>
-Download the image dataset containing fire/nofire images from Digital Commons Data (https://data.mendeley.com/datasets/gjmr63rz2r/1(url)). After accessing all of the data and perusing the technical appendix, save the subsetted dataset (fire_data_subsetted.zip).
+Download the image dataset containing fire/nofire images from Digital Commons Data (https://data.mendeley.com/datasets/gjmr63rz2r/1(url). After accessing all of the data and perusing the technical appendix, save the subsetted dataset (fire_data_subsetted.zip).
 * **Step 2: Exploratory Data Analysis & Cleaning** <br>
 Use SCRIPTS/EDA to ensure all the images have the same dimesnions and to combine the subsetted test/train data back into one dataset. Use the same file to output visualizations such as sample images, hue distributions, and more to gain a deeper understanding of the data that you are working with.
 * **Step 3: Train Convolutional Neural Network** <br>
