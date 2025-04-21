@@ -17,5 +17,5 @@ Use SCRIPTS/Keras_training.ipynb to import the data, run data augmentation, buil
 * **Step 4: Evaluate our Model** <br>
 Use the same file SCRIPTS/Keras_training.ipynb to evaluate the model's performance on the test set, as well as output some graphs about its accuracy over epochs and classification performance. 
 * **Step 5: Conclusions** <br>
-Summarize findings and assess the accuracy and utility of the trained model to determine whether a forest landscape is experiencing a fire or not.
+Summarize findings and assess the accuracy and utility of the trained model to determine whether a forest landscape is experiencing a fire or not. We used binary accuracy and binary cross-entropy loss, aiming for an accuracy of over 90% and a low loss value. 
 Determine future applications for this model.
