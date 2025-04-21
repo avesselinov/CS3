@@ -2,7 +2,7 @@
 ## Software and Platforms:
 We used Python to run the majority of our code in Jupyter Notebooks in either Google Colab or virtually using Rivanna. Platform varied by group member, so we used both Mac and Windows. In order to use Python in the most efficient manner, we used the following additional packages imported with this code: numpy, os, seaborn, matplotlib.pyplot, keras, tensorflow, zipfile, and requests.
 
-## Documentation Map: <br>![Sitemap Whiteboard in Green Purple Basic Style-4](https://github.com/user-attachments/assets/8f60223b-3cb2-4f3b-bcd2-2788b083158f)
+## Documentation Map: <br>![Sitemap Whiteboard in Green Purple Basic Style-4](https://github.com/user-attachments/assets/942eca89-8ff9-41b8-949a-284cb8fd421a)
 
 
 
